@@ -1,0 +1,1 @@
+http://jondavidjohn.com/blog/2011/01/scalable-login-system-for-codeigniter-ion_auth
